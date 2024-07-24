@@ -1,0 +1,4 @@
+import calendar
+yy = 2023  # Year
+mm = 4     # Month (April)
+print(calendar.month(yy, mm))
